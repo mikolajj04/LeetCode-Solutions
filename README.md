@@ -1,5 +1,3 @@
-
-      Title:               	Difficulty:       	      Key  Concepts:	         
-1.	  Two Sum	                Easy	                Arrays,  Hash Table          
-
-
+| Title | Difficulty | Key Concepts | Solution |
+| :--- | :--- | :--- | :--- |
+| 1. Two Sum | Easy | Arrays, Hash Table | [View Code](./TwoSum.cs) |

@@ -1,3 +1,8 @@
+//Given an integer x, return true if x is a palindrome, and false otherwise.
+//Input: x = 121
+//Output: true
+//Input: x = 123
+//Output: false
 public class Solution {
     public int[] TwoSum(int[] nums, int target) {
         

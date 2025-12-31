@@ -2,3 +2,4 @@
 | :--- | :--- | :--- | :--- |
 | 1. Two Sum | Easy | Arrays, Hash Table | [View Code](./TwoSum.cs) |
 | 2. Palindrome Number | Easy | Math | [View Code](./PalindromeNumber.cs) |
+| 3. Find the Index of the First Occurrence in a String |Two Pointers, String, String Matching |  [View Code](./IndexOfFirstOccurrecne.cs) |

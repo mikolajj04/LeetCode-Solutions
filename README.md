@@ -1,4 +1,4 @@
-##LeetCode challenges:
+## LeetCode challenges:
 
 | Title | Difficulty | Key Concepts | Solution |
 | :--- | :--- | :--- | :--- |

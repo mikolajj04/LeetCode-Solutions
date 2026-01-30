@@ -8,3 +8,5 @@
 | 4. Length of Last Word | Easy | String |  [View Code](./LengthOfLastWord.cs) |
 | 5. Climbing Stairs | Easy | Math |  [View Code](./ClimbingStairs.cs) |
 | 6. Plus One | Easy | Math, Array |  [View Code](./PlusOne.cs) |
+| 7.Remove Duplicates From Sorted Array| Easy | Array |  [View Code](./RemoveDuplicatesFromSortedArray.cs) |
+

@@ -10,4 +10,4 @@
 | 6. Plus One | Easy | Math, Array |  [View Code](./PlusOne.cs) |
 | 7. Remove Duplicates From Sorted Array| Easy | Array |  [View Code](./RemoveDuplicatesFromSortedArray.cs) |
 | 8. Search Insert Position | Easy | Array, Binary Search |  [View Code](./SearchInsertPosition.cs) |
-
+| 9. Roman to Integer | Easy | Hash Table, Math, String |  [View Code](./RomantoInteger.cs) |

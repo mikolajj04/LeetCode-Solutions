@@ -30,3 +30,5 @@ public class Solution {
         return k;
     }
 }
+
+// *This is basic two pointers exercise (fast-slow pointer)

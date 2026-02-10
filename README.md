@@ -8,7 +8,7 @@
 | 4. Length of Last Word | Easy | String |  [View Code](./LengthOfLastWord.cs) |
 | 5. Climbing Stairs | Easy | Math |  [View Code](./ClimbingStairs.cs) |
 | 6. Plus One | Easy | Math, Array |  [View Code](./PlusOne.cs) |
-| 7. Remove Duplicates From Sorted Array| Easy | Array |  [View Code](./RemoveDuplicatesFromSortedArray.cs) |
+| 7. Remove Duplicates From Sorted Array| Easy | Array, Two Pointers |  [View Code](./RemoveDuplicatesFromSortedArray.cs) |
 | 8. Search Insert Position | Easy | Array, Binary Search |  [View Code](./SearchInsertPosition.cs) |
 | 9. Roman to Integer | Easy | Hash Table, Math, String |  [View Code](./RomantoInteger.cs) |
 | 10. Remove Element | Easy | Array, Two Pointers|  [View Code](./RemoveElement.cs) |

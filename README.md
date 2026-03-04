@@ -13,3 +13,4 @@
 | 9. Roman to Integer | Easy | Hash Table, Math, String |  [View Code](./RomantoInteger.cs) |
 | 10. Remove Element | Easy | Array, Two Pointers|  [View Code](./RemoveElement.cs) |
 | 11. Add Binary | Easy | Math, String, Bit Manipulation, Simulation|  [View Code](./AddBinary.cs) |
+| 12. Single Number | Easy | Array Bit Manipulation|  [View Code](./SingleNumber.cs) |

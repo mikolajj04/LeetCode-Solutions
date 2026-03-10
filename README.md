@@ -15,7 +15,7 @@
 |11. Add Binary|Easy|Math, String, Bit Manipulation, Simulation|[View Code](./AddBinary.cs)|
 |12. Single Number|Easy|Array Bit Manipulation|[View Code](./SingleNumber.cs)|
 |13. Sqrt(x)|Easy|Math|[View Code](./Sqrt(x).cs)|
-|14. Longest Common Prefix|Easy|String, Array |[View Code](./Sqrt(x).cs)|
+|14. Longest Common Prefix|Easy|String, Array |[View Code](./LongestCommonPrefix.cs)|
 
 
 

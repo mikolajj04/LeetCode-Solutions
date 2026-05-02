@@ -17,5 +17,5 @@
 |13. Sqrt(x)|Easy|Math|[View Code](./Sqrt(x).cs)|
 |14. Longest Common Prefix|Easy|String, Array |[View Code](./LongestCommonPrefix.cs)|
 |15. Rotate String |Easy|String, String matching|[View Code](./RotateString.cs)|
-
+|16. Isomorphic Strings  |Easy| Hash Table, String|[View Code](./IsomorphicStrings.cs)|
 

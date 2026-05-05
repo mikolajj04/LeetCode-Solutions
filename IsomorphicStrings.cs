@@ -49,3 +49,34 @@ public class Solution {
 
     }
 }
+
+
+
+//Faster implementation 
+//The performance improved because I replaced high-overhead Dictionaries with fixed-size char arrays.
+
+
+public class Solution {
+    public bool IsIsomorphic(string s, string t) {
+        if(s.Length!=t.Length){return false;}
+       
+       char[] map1 = new char[128];
+       char[] map2 = new char[128];
+
+        for(int i=0; i<s.Length; i++){
+            char chars= s[i];
+            char chart= t[i];
+
+            if(map1[chars]=='\0'&&map2[chart]=='\0'){ 
+                map1[chars]=chart;
+                map2[chart]=chars;
+                
+            }else if(map1[chars]!=chart||map2[chart]!=chars ){
+                return false;
+            }
+
+        }
+        return true;
+        
+    }
+}

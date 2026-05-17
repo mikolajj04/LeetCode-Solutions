@@ -20,3 +20,4 @@
 |16. Isomorphic Strings  |Easy| Hash Table, String|[View Code](./IsomorphicStrings.cs)|
 |17. Reverse Bits  |Easy| Divide and Conquer, Bit Manipulation|[View Code](./ReverseBits.cs)|
 |18. Missing Number  |Easy| Array, Math| [View Code](./MissingNumber.cs)|
+|19. Add Digits  |Easy| Array, Math, Number Theory| [View Code](./AddDigits.cs)|
